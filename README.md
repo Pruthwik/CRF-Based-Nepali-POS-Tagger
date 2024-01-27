@@ -6,7 +6,7 @@
 #### python3 create_features_for_crf_from_conll_pos_data.py --input input_file --output feature_file
 #### input_file expects a sentence in each line
 #### b. Prediction using the CRF model
-#### crf_test -m model_path feature_file > features_with_prediction [crf_test is a program in the CRF++ toolkit]
+#### crf_test -m model_path feature_file > features_with_prediction [crf_test is a program in the CRF++ toolkit which can be downloaded from (https://taku910.github.io/crfpp/)]
 #### Just use the script run_nepali_pos_tagger.sh as below
 bash run_nepali_pos_tagger.sh input_file.txt output_file.txt
 ## If you are using this tool, please use the following citation
