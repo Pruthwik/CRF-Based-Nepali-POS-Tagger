@@ -1,0 +1,66 @@
+<Sentence id='1'>
+1	खाद्य	N_NN	
+2	सुरक्षाले	N_NN	
+3	प्रोत्साहन	N_NN	
+4	पाउँछ	V_VM	
+5	।	RD_PUNC	
+</Sentence>
+
+<Sentence id='2'>
+1	ग्रामीण	N_NN	
+2	विकास	N_NN	
+3	गरेर	V_VM	
+4	किसानहरूलाई	N_NN	
+5	ऋणबाट	N_NN	
+6	मुक्‍त	N_NN	
+7	गर्छ	V_VM	
+8	।	RD_PUNC	
+</Sentence>
+
+<Sentence id='3'>
+1	ऊर्जाले	N_NN	
+2	समस्याको	N_NN	
+3	समाधान	N_NN	
+4	गर्छ	V_VM	
+5	।	RD_PUNC	
+</Sentence>
+
+<Sentence id='4'>
+1	प्रकृति	N_NN	
+2	अनि	CC_CCD	
+3	पर्यावरण	N_NN	
+4	सफा	JJ	
+5	रहन्छ	V_VM	
+6	।	RD_PUNC	
+</Sentence>
+
+<Sentence id='5'>
+1	पानी	N_NN	
+2	अनि	CC_CCD	
+3	भूमिलाई	N_NN	
+4	विषबाट	N_NN	
+5	मुक्‍त	N_NN	
+6	पारेर	V_VM	
+7	जनावर	N_NN	
+8	अनि	CC_CCD	
+9	पक्षीलाई	N_NN	
+10	हानिबाट	N_NN	
+11	बचाउँछ	V_VM	
+12	।	RD_PUNC	
+</Sentence>
+
+<Sentence id='6'>
+1	आवश्यकताभन्दा	N_NN	
+2	धेर	QT_QTF	
+3	रासायनिक	JJ	
+4	उर्वरक	JJ	
+5	हाल्दा	V_VM	
+6	जमिनको	N_NN	
+7	उर्वरता	N_NN	
+8	अनि	CC_CCD	
+9	उत्पादकत्वमा	N_NN	
+10	कमी	QT_QTF	
+11	आउँछ	V_VM	
+12	।	RD_PUNC	
+</Sentence>
+

@@ -1,0 +1,53 @@
+खाद्य	N_NN
+सुरक्षाले	N_NN
+प्रोत्साहन	N_NN
+पाउँछ	V_VM
+।	RD_PUNC
+
+ग्रामीण	N_NN
+विकास	N_NN
+गरेर	V_VM
+किसानहरूलाई	N_NN
+ऋणबाट	N_NN
+मुक्‍त	N_NN
+गर्छ	V_VM
+।	RD_PUNC
+
+ऊर्जाले	N_NN
+समस्याको	N_NN
+समाधान	N_NN
+गर्छ	V_VM
+।	RD_PUNC
+
+प्रकृति	N_NN
+अनि	CC_CCD
+पर्यावरण	N_NN
+सफा	JJ
+रहन्छ	V_VM
+।	RD_PUNC
+
+पानी	N_NN
+अनि	CC_CCD
+भूमिलाई	N_NN
+विषबाट	N_NN
+मुक्‍त	N_NN
+पारेर	V_VM
+जनावर	N_NN
+अनि	CC_CCD
+पक्षीलाई	N_NN
+हानिबाट	N_NN
+बचाउँछ	V_VM
+।	RD_PUNC
+
+आवश्यकताभन्दा	N_NN
+धेर	QT_QTF
+रासायनिक	JJ
+उर्वरक	JJ
+हाल्दा	V_VM
+जमिनको	N_NN
+उर्वरता	N_NN
+अनि	CC_CCD
+उत्पादकत्वमा	N_NN
+कमी	QT_QTF
+आउँछ	V_VM
+।	RD_PUNC

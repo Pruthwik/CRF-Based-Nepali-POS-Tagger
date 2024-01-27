@@ -1,0 +1,5 @@
+ID	Value
+NPD1	१०\QT_QTC सितम्बर\N_NN ,\RD_PUNC १९८५\QT_QTC को\PSP संसदीय\JJ अधिनियमबाट\N_NN स्थापित\JJ इन्दिरा\N_NNP गान्धी\N_NNP मुक्‍त\N_NNP विश्‍वविद्यालय\N_NNP १९८७\QT_QTC का\PSP सत्रदेखि\N_NN प्रकार्य\N_NN रूपमा\N_NN उत्रेको\V_VM पाइन्छ\V_VM ।\RD_PUNC
+NPD2	यस\DM_DMD विश्‍वविद्यालयको\N_NN अध्ययन\N_NN तथा\CC_CCD अध्यापन\N_NN कार्य\N_NN पद्धति\N_NN केवल\RB मुक्‍त\JJ अवधारणामाथि\N_NN मात्रै\RB स्थापित\JJ छैन\V_VM ।\RD_PUNC
+
+

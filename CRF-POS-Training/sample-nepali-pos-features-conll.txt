@@ -1,0 +1,55 @@
+खाद्य	ख	खा	खाद	खाद्	य	्य	द्य	ाद्य	खाद्य	NULL	NULL	MORE	N_NN
+सुरक्षाले	स	सु	सुर	सुरक	े	ले	ाले	षाले	्षाले	क्षाले	रक्षाले	MORE	N_NN
+प्रोत्साहन	प	प्	प्र	प्रो	न	हन	ाहन	साहन	्साहन	त्साहन	ोत्साहन	MORE	N_NN
+पाउँछ	प	पा	पाउ	पाउँ	छ	ँछ	उँछ	ाउँछ	पाउँछ	NULL	NULL	MORE	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+ग्रामीण	ग	ग्	ग्र	ग्रा	ण	ीण	मीण	ामीण	रामीण	्रामीण	ग्रामीण	MORE	N_NN
+विकास	व	वि	विक	विका	स	ास	कास	िकास	विकास	NULL	NULL	MORE	N_NN
+गरेर	ग	गर	गरे	गरेर	र	ेर	रेर	गरेर	NULL	NULL	NULL	LESS	V_VM
+किसानहरूलाई	क	कि	किस	किसा	ई	ाई	लाई	ूलाई	रूलाई	हरूलाई	नहरूलाई	MORE	N_NN
+ऋणबाट	ऋ	ऋण	ऋणब	ऋणबा	ट	ाट	बाट	णबाट	ऋणबाट	NULL	NULL	MORE	N_NN
+मुक्‍त	म	मु	मुक	मुक्	त	‍त	्‍त	क्‍त	ुक्‍त	मुक्‍त	NULL	MORE	N_NN
+गर्छ	ग	गर	गर्	गर्छ	छ	्छ	र्छ	गर्छ	NULL	NULL	NULL	LESS	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+ऊर्जाले	ऊ	ऊर	ऊर्	ऊर्ज	े	ले	ाले	जाले	्जाले	र्जाले	ऊर्जाले	MORE	N_NN
+समस्याको	स	सम	समस	समस्	ो	को	ाको	याको	्याको	स्याको	मस्याको	MORE	N_NN
+समाधान	स	सम	समा	समाध	न	ान	धान	ाधान	माधान	समाधान	NULL	MORE	N_NN
+गर्छ	ग	गर	गर्	गर्छ	छ	्छ	र्छ	गर्छ	NULL	NULL	NULL	LESS	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+प्रकृति	प	प्	प्र	प्रक	ि	ति	ृति	कृति	रकृति	्रकृति	प्रकृति	MORE	N_NN
+अनि	अ	अन	अनि	NULL	ि	नि	अनि	NULL	NULL	NULL	NULL	LESS	CC_CCD
+पर्यावरण	प	पर	पर्	पर्य	ण	रण	वरण	ावरण	यावरण	्यावरण	र्यावरण	MORE	N_NN
+सफा	स	सफ	सफा	NULL	ा	फा	सफा	NULL	NULL	NULL	NULL	LESS	JJ
+रहन्छ	र	रह	रहन	रहन्	छ	्छ	न्छ	हन्छ	रहन्छ	NULL	NULL	MORE	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+पानी	प	पा	पान	पानी	ी	नी	ानी	पानी	NULL	NULL	NULL	LESS	N_NN
+अनि	अ	अन	अनि	NULL	ि	नि	अनि	NULL	NULL	NULL	NULL	LESS	CC_CCD
+भूमिलाई	भ	भू	भूम	भूमि	ई	ाई	लाई	िलाई	मिलाई	ूमिलाई	भूमिलाई	MORE	N_NN
+विषबाट	व	वि	विष	विषब	ट	ाट	बाट	षबाट	िषबाट	विषबाट	NULL	MORE	N_NN
+मुक्‍त	म	मु	मुक	मुक्	त	‍त	्‍त	क्‍त	ुक्‍त	मुक्‍त	NULL	MORE	N_NN
+पारेर	प	पा	पार	पारे	र	ेर	रेर	ारेर	पारेर	NULL	NULL	MORE	V_VM
+जनावर	ज	जन	जना	जनाव	र	वर	ावर	नावर	जनावर	NULL	NULL	MORE	N_NN
+अनि	अ	अन	अनि	NULL	ि	नि	अनि	NULL	NULL	NULL	NULL	LESS	CC_CCD
+पक्षीलाई	प	पक	पक्	पक्ष	ई	ाई	लाई	ीलाई	षीलाई	्षीलाई	क्षीलाई	MORE	N_NN
+हानिबाट	ह	हा	हान	हानि	ट	ाट	बाट	िबाट	निबाट	ानिबाट	हानिबाट	MORE	N_NN
+बचाउँछ	ब	बच	बचा	बचाउ	छ	ँछ	उँछ	ाउँछ	चाउँछ	बचाउँछ	NULL	MORE	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+आवश्यकताभन्दा	आ	आव	आवश	आवश्	ा	दा	्दा	न्दा	भन्दा	ाभन्दा	ताभन्दा	MORE	N_NN
+धेर	ध	धे	धेर	NULL	र	ेर	धेर	NULL	NULL	NULL	NULL	LESS	QT_QTF
+रासायनिक	र	रा	रास	रासा	क	िक	निक	यनिक	ायनिक	सायनिक	ासायनिक	MORE	JJ
+उर्वरक	उ	उर	उर्	उर्व	क	रक	वरक	्वरक	र्वरक	उर्वरक	NULL	MORE	JJ
+हाल्दा	ह	हा	हाल	हाल्	ा	दा	्दा	ल्दा	ाल्दा	हाल्दा	NULL	MORE	V_VM
+जमिनको	ज	जम	जमि	जमिन	ो	को	नको	िनको	मिनको	जमिनको	NULL	MORE	N_NN
+उर्वरता	उ	उर	उर्	उर्व	ा	ता	रता	वरता	्वरता	र्वरता	उर्वरता	MORE	N_NN
+अनि	अ	अन	अनि	NULL	ि	नि	अनि	NULL	NULL	NULL	NULL	LESS	CC_CCD
+उत्पादकत्वमा	उ	उत	उत्	उत्प	ा	मा	वमा	्वमा	त्वमा	कत्वमा	दकत्वमा	MORE	N_NN
+कमी	क	कम	कमी	NULL	ी	मी	कमी	NULL	NULL	NULL	NULL	LESS	QT_QTF
+आउँछ	आ	आउ	आउँ	आउँछ	छ	ँछ	उँछ	आउँछ	NULL	NULL	NULL	LESS	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+

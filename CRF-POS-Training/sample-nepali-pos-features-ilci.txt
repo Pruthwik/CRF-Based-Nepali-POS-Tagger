@@ -1,0 +1,37 @@
+१०	१	१०	NULL	NULL	०	१०	NULL	NULL	NULL	NULL	NULL	LESS	QT_QTC
+सितम्बर	स	सि	सित	सितम	र	बर	्बर	म्बर	तम्बर	ितम्बर	सितम्बर	MORE	N_NN
+,	,	NULL	NULL	NULL	,	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+१९८५	१	१९	१९८	१९८५	५	८५	९८५	१९८५	NULL	NULL	NULL	LESS	QT_QTC
+को	क	को	NULL	NULL	ो	को	NULL	NULL	NULL	NULL	NULL	LESS	PSP
+संसदीय	स	सं	संस	संसद	य	ीय	दीय	सदीय	ंसदीय	संसदीय	NULL	MORE	JJ
+अधिनियमबाट	अ	अध	अधि	अधिन	ट	ाट	बाट	मबाट	यमबाट	ियमबाट	नियमबाट	MORE	N_NN
+स्थापित	स	स्	स्थ	स्था	त	ित	पित	ापित	थापित	्थापित	स्थापित	MORE	JJ
+इन्दिरा	इ	इन	इन्	इन्द	ा	रा	िरा	दिरा	्दिरा	न्दिरा	इन्दिरा	MORE	N_NNP
+गान्धी	ग	गा	गान	गान्	ी	धी	्धी	न्धी	ान्धी	गान्धी	NULL	MORE	N_NNP
+मुक्‍त	म	मु	मुक	मुक्	त	‍त	्‍त	क्‍त	ुक्‍त	मुक्‍त	NULL	MORE	N_NNP
+विश्‍वविद्यालय	व	वि	विश	विश्	य	लय	ालय	यालय	्यालय	द्यालय	िद्यालय	MORE	N_NNP
+१९८७	१	१९	१९८	१९८७	७	८७	९८७	१९८७	NULL	NULL	NULL	LESS	QT_QTC
+का	क	का	NULL	NULL	ा	का	NULL	NULL	NULL	NULL	NULL	LESS	PSP
+सत्रदेखि	स	सत	सत्	सत्र	ि	खि	ेखि	देखि	रदेखि	्रदेखि	त्रदेखि	MORE	N_NN
+प्रकार्य	प	प्	प्र	प्रक	य	्य	र्य	ार्य	कार्य	रकार्य	्रकार्य	MORE	N_NN
+रूपमा	र	रू	रूप	रूपम	ा	मा	पमा	ूपमा	रूपमा	NULL	NULL	MORE	N_NN
+उत्रेको	उ	उत	उत्	उत्र	ो	को	ेको	रेको	्रेको	त्रेको	उत्रेको	MORE	V_VM
+पाइन्छ	प	पा	पाइ	पाइन	छ	्छ	न्छ	इन्छ	ाइन्छ	पाइन्छ	NULL	MORE	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+यस	य	यस	NULL	NULL	स	यस	NULL	NULL	NULL	NULL	NULL	LESS	DM_DMD
+विश्‍वविद्यालयको	व	वि	विश	विश्	ो	को	यको	लयको	ालयको	यालयको	्यालयको	MORE	N_NN
+अध्ययन	अ	अध	अध्	अध्य	न	यन	ययन	्ययन	ध्ययन	अध्ययन	NULL	MORE	N_NN
+तथा	त	तथ	तथा	NULL	ा	था	तथा	NULL	NULL	NULL	NULL	LESS	CC_CCD
+अध्यापन	अ	अध	अध्	अध्य	न	पन	ापन	यापन	्यापन	ध्यापन	अध्यापन	MORE	N_NN
+कार्य	क	का	कार	कार्	य	्य	र्य	ार्य	कार्य	NULL	NULL	MORE	N_NN
+पद्धति	प	पद	पद्	पद्ध	ि	ति	धति	्धति	द्धति	पद्धति	NULL	MORE	N_NN
+केवल	क	के	केव	केवल	ल	वल	ेवल	केवल	NULL	NULL	NULL	LESS	RB
+मुक्‍त	म	मु	मुक	मुक्	त	‍त	्‍त	क्‍त	ुक्‍त	मुक्‍त	NULL	MORE	JJ
+अवधारणामाथि	अ	अव	अवध	अवधा	ि	थि	ाथि	माथि	ामाथि	णामाथि	रणामाथि	MORE	N_NN
+मात्रै	म	मा	मात	मात्	ै	रै	्रै	त्रै	ात्रै	मात्रै	NULL	MORE	RB
+स्थापित	स	स्	स्थ	स्था	त	ित	पित	ापित	थापित	्थापित	स्थापित	MORE	JJ
+छैन	छ	छै	छैन	NULL	न	ैन	छैन	NULL	NULL	NULL	NULL	LESS	V_VM
+।	।	NULL	NULL	NULL	।	NULL	NULL	NULL	NULL	NULL	NULL	LESS	RD_PUNC
+
+
