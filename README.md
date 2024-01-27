@@ -1,4 +1,4 @@
-# Odia-POS-Tagger
+# Nepali-POS-Tagger With Training Code
 ## This is a POS tagger using CRF, you need to install CRF++ toolkit to run this code
 ### The prediction consists of 2 phases
 #### a. Feature Creation for CRF model
